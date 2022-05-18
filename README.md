@@ -1,1 +1,1 @@
-# iu7-cg
+# Computer graphics labs
